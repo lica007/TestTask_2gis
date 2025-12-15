@@ -16,8 +16,8 @@
 Все этапы тестирования были задокументированы. Артефакты хранятся в структурированных таблицах на Google Диске.
 | Документ | Описание | Прямой доступ |
 | :--- | :--- | :--- |
-| **Тест-кейсы** | Список тестовых сценариев | [Открыть таблицу]([https://your-link-here](https://docs.google.com/spreadsheets/d/1I_OV5bjZWppuhNtlvG4jYG6hn-uAgvlSyHj6xHiiWHs/edit?gid=0#gid=0)) |
-| **Баг-репорты** | Детальные баг-репорты по всем найденным дефектам | [Открыть таблицу]([https://your-link-here](https://docs.google.com/spreadsheets/d/1DpVknkYkM-dmefr4KMyX7DeQIQ9filHUaVK0Wdaf61s/edit?gid=0#gid=0)) |
+| **Тест-кейсы** | Список тестовых сценариев | [Открыть таблицу](https://docs.google.com/spreadsheets/d/1I_OV5bjZWppuhNtlvG4jYG6hn-uAgvlSyHj6xHiiWHs/edit?gid=0#gid=0) |
+| **Баг-репорты** | Детальные баг-репорты по всем найденным дефектам | [Открыть таблицу](https://docs.google.com/spreadsheets/d/1DpVknkYkM-dmefr4KMyX7DeQIQ9filHUaVK0Wdaf61s/edit?gid=0#gid=0) |
 
 ## Что было протестированно
 В проекте тесты были структурированы по логическим группам для полного покрытия функционала API
